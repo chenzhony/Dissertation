@@ -14,3 +14,5 @@ Combination.ipynb was the combination of source domain and target domain dataset
 
 SVDA.ipynb was semi-supervised domain adaptation code
 
+The link is dataset and one example of base model
+https://drive.google.com/drive/folders/1DASWiUtfvK2UTDhsVRG9wn6-DcuoCdv3?usp=sharing
